@@ -1,0 +1,26 @@
+.navbar{
+   background: linear-gradient(to bottom,black,rgb(245, 137, 14)) !important;
+}
+
+body{
+background-color:rgb(0, 0, 0) !important;
+   
+}
+.rounded-full{
+    background-color:rgba(189, 181, 181, 0.093) !important;
+}
+.fa-solid{
+    width:131px;
+    height:124px;
+   
+    margin: auto;
+    padding-top: 60px;
+    
+}
+.card{
+    color: rgb(128, 128, 128)!important;
+}
+.form-control{
+    background-color: rgba(0, 0, 0, 0.24);
+    color: brown;
+}
